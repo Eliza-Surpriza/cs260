@@ -1,1 +1,1 @@
-# cs260Fall2023
+# this is cs 260
